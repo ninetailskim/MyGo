@@ -20,6 +20,5 @@ var (
 	v4 = Vertex{X: 100, z: true}
 )
 func main(){
-
 	fmt.Println(v1, v2, v3, v4)
 }

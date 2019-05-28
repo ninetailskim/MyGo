@@ -17,4 +17,6 @@ func main(){
 	*p = *p / 37
 
 	fmt.Println(j)
+
+	fmt.Println(p)
 }
